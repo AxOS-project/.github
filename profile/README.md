@@ -2,7 +2,7 @@
   <a href="https://axos-project.github.io"><img src="https://user-images.githubusercontent.com/110931544/250184275-f5b3bcf2-8dac-4d08-9c93-f83f18150d43.png" height="128" width="128" alt="AxOS"></a>
 </p>
 
-<h4 align="center">The linux experience, Enchanced.</h4>
+<h4 align="center">The linux experience, enhanced</h4>
 
 <p align="center">
   <a href="https://axos-project.github.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-darkblue?style=flat-square"></a>
