@@ -13,3 +13,6 @@
 <p align="center">
 AxOS is a cutting-edge operating system that draws its inspiration from Arch Linux, with a French touch. Built upon the foundations of Arch Linux, AxOS combines the power and flexibility of Arch with a refined and elegant user experience. Designed to cater to users who value both aesthetics and performance, AxOS leverages the latest Arch kernel to provide a seamless and efficient computing environment.
 </p>
+
+### Our lovely sponsors
+<a href="https://github.com/fszzl21"><img src="https://github.com/user-attachments/assets/399519b1-9962-4c87-9f53-485986d89ae2" width="100"></a>
