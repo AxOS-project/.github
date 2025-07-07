@@ -15,4 +15,4 @@ AxOS is a cutting-edge operating system that draws its inspiration from Arch Lin
 </p>
 
 ### Our lovely sponsors
-<a href="https://github.com/fszzl21"><img src="https://github.com/user-attachments/assets/399519b1-9962-4c87-9f53-485986d89ae2" width="100"></a>
+<a href="https://github.com/fszzl21"><img src="https://github.com/user-attachments/assets/399519b1-9962-4c87-9f53-485986d89ae2" width="75"></a>
